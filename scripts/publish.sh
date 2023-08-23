@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Publish the given image to dockerhub.
+# Publish the given image to ghcr.
 #
 
 set -e
